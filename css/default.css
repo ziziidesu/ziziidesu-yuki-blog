@@ -543,6 +543,10 @@ p,
 	max-width: 600px;
 	white-space: pre-wrap;
 }
+whitea {
+    text-decoration: none;
+    color: #FFFFFF;
+}
 
 /* Center the "invidious" logo on the search page */
 #logo > h1 { text-align: center; }
